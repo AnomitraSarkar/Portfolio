@@ -25,8 +25,8 @@ const About = () => {
             <div>
               <p className="grid-headtext">Hi, I’m Anomitra Sarkar</p>
               <p className="grid-subtext">
-                With 12 years of experience, I have honed my skills in both frontend and backend dev, creating dynamic
-                and responsive websites.
+                With <b>7 years of experience</b>, I have honed my skills in both <b>frontend and backend</b> dev, creating dynamic
+                and responsive websites. Not only that but also I excel in <b>Python</b> and <b>Aritificial Intelligence</b>.
               </p>
             </div>
           </div>
@@ -40,7 +40,7 @@ const About = () => {
               <p className="grid-headtext">Tech Stack</p>
               <p className="grid-subtext">
                 I specialize in a variety of languages, frameworks, and tools that allow me to build robust and scalable
-                applications
+                applications. Scaling to cloud using <b>AWS</b> to low level processing in <b>ASM x86</b>.
               </p>
             </div>
           </div>
@@ -63,7 +63,7 @@ const About = () => {
             </div>
             <div>
               <p className="grid-headtext">I’m very flexible with time zone communications & locations</p>
-              <p className="grid-subtext">I&apos;m based in Rjieka, Croatia and open to remote work worldwide.</p>
+              <p className="grid-subtext">I&apos;m based in <b>Delhi, India</b> and open to remote work worldwide.</p>
               <Button name="Contact Me" isBeam containerClass="w-full mt-10" />
             </div>
           </div>
@@ -74,10 +74,11 @@ const About = () => {
             <img src="assets/grid3.png" alt="grid-3" className="w-full sm:h-[266px] h-fit object-contain" />
 
             <div>
-              <p className="grid-headtext">My Passion for Coding</p>
+              <p className="grid-headtext">My Passion for Programming</p>
               <p className="grid-subtext">
                 I love solving problems and building things through code. Programming isn&apos;t just my
                 profession—it&apos;s my passion. I enjoy exploring new technologies, and enhancing my skills.
+                Its a form of engineering that helps me create and simulate <b>anything</b> and <b>everything</b>.
               </p>
             </div>
           </div>
@@ -95,7 +96,7 @@ const About = () => {
               <p className="grid-subtext text-center">Contact me</p>
               <div className="copy-container" onClick={handleCopy}>
                 <img src={hasCopied ? 'assets/tick.svg' : 'assets/copy.svg'} alt="copy" />
-                <p className="lg:text-2xl md:text-xl font-medium text-gray_gradient text-white">Sarkar@jsmastery.pro</p>
+                <p className="lg:text-2xl md:text-xl font-medium text-gray_gradient text-white">anomitrasarkar05@gmail.com</p>
               </div>
             </div>
           </div>
