@@ -1,3 +1,4 @@
+[-] netlify deploy
 - Change all Instances of Adrian
 - Personalize
 - Socialize
