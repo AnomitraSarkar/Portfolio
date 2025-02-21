@@ -1,4 +1,4 @@
-- Change all Instances of Adrian
+- Change all Instances of Sarkar
 - clear up readme
 - Personalize
 - Socialize
