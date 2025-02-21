@@ -1,4 +1,3 @@
-- Change all Instances of Sarkar
 - clear up readme
 - Personalize
 - Socialize
