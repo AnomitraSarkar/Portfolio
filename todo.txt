@@ -1,4 +1,5 @@
 - Change all Instances of Adrian
+- clear up readme
 - Personalize
 - Socialize
 - Change assets
