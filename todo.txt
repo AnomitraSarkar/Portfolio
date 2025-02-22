@@ -1,5 +1,5 @@
-- clear up readme
-- Personalize
+- Clear up ReadMe
+- Personalize Projects
 - Socialize
 - Change assets
 - domain rethinking
